@@ -81,7 +81,7 @@
 |连接线|usb分线器一拖三数据线插头充电U盘扩展器车载多接口一分二转接头|1|买仅充电的就行，无需数据功能|7.8|![连接线](/images/BOM/BOM2/连接线.jpg "连接线")|[链接](https://item.taobao.com/item.htm?id=654564026451)|
 |电池|德力普水枪18650锂电池3.7v|1|注意需要店家额外送一根转USB母口的线，或者另外买一根|29.9|![电池](/images/BOM/BOM2/电池.jpg "电池")|[链接](https://detail.tmall.com/item.htm?id=680574941464)|
 |电池2|XTAR 18650 3300mAh锂电池强光手电专用 3.6v大容量 带保护板可充|1|另外一种带保护板的电池，不带线，需要配合下面的电池盒一起使用|36|![电池2](/images/BOM/BOM2/电池2.jpg "电池2")|[链接](https://detail.tmall.com/item.htm?id=646611654618)|
-|电池盒|18650电池盒 1节 电池座 针式 专为带保护板的18650电池设计|1||1.2|![电池盒](/images/BOM/BOM2/电池盒.jpg "电池盒")|[链接](https://item.taobao.com/item.htm?id=40271994011)|
+|电池盒|18650电池盒|1||1.2|![电池盒](/images/BOM/BOM2/电池盒.jpg "电池盒")|[链接](https://item.taobao.com/item.htm?id=40271994011)|
 |控制器|迷你RF单色控制器 5V射频单色灯条控制器 led灯条无线11键USB接口|1||7.2|![控制器](/images/BOM/BOM2/控制器.png "控制器")|[链接](https://item.taobao.com/item.htm?id=673910655680)|
 |固定材料|3m高曼无痕魔力扣照片相框贴婚纱照装饰画固定免钉不伤墙面免打孔|8～16|注意不要买成没有蘑菇扣的类似商品|14.2/8 25.8/16|![固定材料](/images/BOM/BOM2/固定材料.jpg "固定材料")|[链接](https://item.taobao.com/item.htm?id=645568453674)|
 
