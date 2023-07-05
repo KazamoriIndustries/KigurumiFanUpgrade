@@ -15,7 +15,7 @@ export default defineConfig({
       {
         items: [
           { text: '前言', link: '/fan-upgrade/' },
-          { text: '安装前注意事项', link: '/fan-upgrade/warning' },
+          { text: '安装前注意事项', link: '/fan-upgrade/pre-install' },
           { text: 'BOM（物料清单）范例', link: '/fan-upgrade/BOM' },
           { text: '安装步骤', link: '/fan-upgrade/install' },
           { text: 'Q&A', link: '/fan-upgrade/QA' },
