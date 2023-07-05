@@ -6,7 +6,7 @@ V2.0.20230705.MD
 
 # 原文链接
 
-[原文链接](https://github.com/KazamoriIndustries/KigurumiFanUpgrade)
+[原文链接](https://KazamoriIndustries.github.io/KigurumiFanUpgrade/)
 
 # 项目地址
 
